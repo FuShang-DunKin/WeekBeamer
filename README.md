@@ -23,3 +23,4 @@ Sci-hub：https://gfsoso.99lb.net/sci-hub.html
 
 期刊缩写查询：https://error.incites.clarivate.com/error/Error?DestApp=IC2JCR&Error=IPError&Params=DestApp%3DIC2JCR&RouterURL=https%3A%2F%2Flogin.incites.clarivate.com%2F&Domain=.clarivate.com&Src=IP&Alias=IC2
 
+文档模板：https://github.com/swq123459/GZHU-Report-Latex-Version
